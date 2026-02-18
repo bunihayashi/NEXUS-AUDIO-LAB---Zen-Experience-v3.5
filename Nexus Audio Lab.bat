@@ -18,6 +18,7 @@ if '%errorlevel%' NEQ '0' (
 
 :: COMANDO PRINCIPAL
 title NEXUS AUDIO LAB - SISTEMA ATIVO
-cd /d "C:\Users\gabri\Desktop\Scripts\Sons Puros"
+cd /d "C:\Users\user\Desktop\Scripts\Sons Puros"
 python app_nexus.py
 pause
+
