@@ -46,5 +46,6 @@ The software features a complete internal manual on hardware (DACs, Amps, KZ/Sen
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/nexus-audio-lab.git](https://github.com/YOUR-USERNAME/nexus-audio-lab.git)
+   git clone https://github.com/bunihayashi/NEXUS-AUDIO-LAB---Zen-Experience-v3.5.git
+
    cd nexus-audio-lab
