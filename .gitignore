@@ -1,0 +1,25 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Local Config Files
+nexus_config.txt
+
+# Generated Audio Folders (Do not upload heavy .wav files)
+Sons Puros/
+Binaural_Arsenal/
+Cores/
+Mixagens_Nexus/
+Ciclo_Diario_Noturno/
+Ciclo_Diario_Matinal/
+
+# Logs and IDEs
+.vscode/
+.idea/
+*.log
